@@ -1,1 +1,1 @@
-add readme file
+parallel processing project (using multi threads)
